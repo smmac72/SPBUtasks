@@ -1,0 +1,12 @@
+C:\Users\smmac\Documents\Prog\Block 2\CircleList\CircleList\CircleList\bin\Debug\net6.0\CircleList.deps.json
+C:\Users\smmac\Documents\Prog\Block 2\CircleList\CircleList\CircleList\bin\Debug\net6.0\CircleList.dll
+C:\Users\smmac\Documents\Prog\Block 2\CircleList\CircleList\CircleList\bin\Debug\net6.0\CircleList.pdb
+C:\Users\smmac\Documents\Prog\Block 2\CircleList\CircleList\CircleList\obj\Debug\net6.0\CircleList.csproj.AssemblyReference.cache
+C:\Users\smmac\Documents\Prog\Block 2\CircleList\CircleList\CircleList\obj\Debug\net6.0\CircleList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smmac\Documents\Prog\Block 2\CircleList\CircleList\CircleList\obj\Debug\net6.0\CircleList.AssemblyInfoInputs.cache
+C:\Users\smmac\Documents\Prog\Block 2\CircleList\CircleList\CircleList\obj\Debug\net6.0\CircleList.AssemblyInfo.cs
+C:\Users\smmac\Documents\Prog\Block 2\CircleList\CircleList\CircleList\obj\Debug\net6.0\CircleList.csproj.CoreCompileInputs.cache
+C:\Users\smmac\Documents\Prog\Block 2\CircleList\CircleList\CircleList\obj\Debug\net6.0\CircleList.dll
+C:\Users\smmac\Documents\Prog\Block 2\CircleList\CircleList\CircleList\obj\Debug\net6.0\refint\CircleList.dll
+C:\Users\smmac\Documents\Prog\Block 2\CircleList\CircleList\CircleList\obj\Debug\net6.0\CircleList.pdb
+C:\Users\smmac\Documents\Prog\Block 2\CircleList\CircleList\CircleList\obj\Debug\net6.0\ref\CircleList.dll
