@@ -3,7 +3,7 @@ A very short terminal-based game written in C#. That's gonna be my next jam game
 
 # Docs
 - UML class diagram - UML.png
-- Run the game - bin/Release/net6.0/Game.exe
+- Run the game - Game/bin/Release/net6.0/Game.exe
 
 # Guide
 - Launch the game
